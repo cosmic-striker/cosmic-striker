@@ -24,7 +24,7 @@ I'm a passionate cybersecurity student with a strong foundation in Python, C++, 
 
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/cosmic-striker)
-- [LinkedIn](https://www.linkedin.com/in/vishal-d)
+- [LinkedIn](https://www.linkedin.com/in/vishal-d-124762290)
 - [Email](mailto:vishald.cs2023@citchennai.net)
 
 ## 😄 Pronouns
